@@ -78,8 +78,6 @@ pub struct MessageAccount {
     /// The actual text message. (Max ~256 bytes due to space above)
     pub message: String,
 }
-// HbRjaEfZt5Heb9aBptYhWtmP4tUc4kQQUq1xQqmpUCdu
-// DDXF5xhDoEbdijsQQQNoARvAE5Dx5Dfo19He6WxcMrsP
 
 /// Custom errors.
 #[error_code]
