@@ -1,8 +1,4 @@
-Below is a **clean and professional README.md** that explains everything step-by-step so any developer can clone, deploy, and test your Solana Anchor program.
 
-You can copy-paste this as your `README.md` in the project root.
-
----
 
 #  Message Storage Program (Solana + Anchor)
 
